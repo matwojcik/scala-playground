@@ -1,4 +1,4 @@
-package matwojcik.movies
+package matwojcik
 
 import cats.effect.ExitCode
 import cats.effect.IO
